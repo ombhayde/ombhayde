@@ -9,6 +9,8 @@
   - State-Level Winner in **Chess (2017)**.
 - 📫 How to reach me ombhayde5@gmail.com
 
+# Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/ombhayde?theme=dark&font=B612&ext=activity) ![LeetCode Stats](https://leetcard.jacoblin.cool/ombhayde?theme=dark&font=B612&ext=heatmap)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1061376466799054928) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Om Bhayde) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_om__20__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Om Bhayde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Om Bhayde) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Om Bhayde) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/According_Piano_1159) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29000626) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Om Bhayde) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Om-Bhayde) 
